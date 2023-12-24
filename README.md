@@ -10,6 +10,17 @@ Usage
 
     Enter the first and second names when prompted.
 
+Example:
+
+Input:
+first name = Mario
+second name = Princess Peach
+
+Output:
+    Your score is 43, you are alright together.
+    
+---------------------------------------------------------------------
+
 Toss Function
 
 This code simulates a coin toss. It generates a random number (0 or 1) and returns "Heads" or "Tails" based on the result.
@@ -20,6 +31,18 @@ Usage
 
     python coin_toss.py
 
+Example:
+Input:
+    no need to given any input.
+
+Output:
+    Heads
+or
+    Tails
+
+------------------------------------------------------------------------
+
+
 Treasure Island Adventure
 
 Embark on a text-based adventure in Treasure Island. The user makes choices to navigate through a series of scenarios with the ultimate goal of finding the treasure.
@@ -29,6 +52,7 @@ Usage
     Run the script by executing the following command in your terminal or command prompt:
 
     python treasure_island_adventure.py
+
 
     Follow the prompts and make choices to progress through the story.
 
