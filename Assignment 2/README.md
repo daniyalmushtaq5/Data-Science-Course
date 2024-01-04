@@ -15,81 +15,68 @@ The game provides visual representations of your hangman state as you progress. 
 
 Here are the different stages:
 
-    Stage 1
+Stage 1
 
-    markdown
-
-+---+
-|   |
-O   |
-/|\  |
-/ \  |
-    |
-=========
+    +---+
+    |   |
+    O   |
+    /|\  |
+    / \  |
+        |
+    =========
 
 Stage 2
 
-markdown
-
-+---+
-|   |
-O   |
-/|\  |
-/    |
-    |
-=========
+    +---+
+    |   |
+    O   |
+    /|\  |
+    /    |
+        |
+    =========
 
 Stage 3
 
-diff
-
-+---+
-|   |
-O   |
-/|\  |
-    |
-    |
-=========
+    +---+
+    |   |
+    O   |
+    /|\  |
+        |
+        |
+    =========
 
 Stage 4
 
-diff
-
-+---+
-|   |
-O   |
-/|   |
-    |
-    |
-=========
+    +---+
+    |   |
+    O   |
+    /|   |
+        |
+        |
+    =========
 
 Stage 5
 
-diff
-
-+---+
-|   |
-O   |
-|   |
-    |
-    |
-=========
+    +---+
+    |   |
+    O   |
+    |   |
+        |
+        |
+    =========
 
 Stage 6
 
-diff
+    +---+
+    |   |
+    O   |
+        |
+        |
+        |
+    =========
 
-+---+
-|   |
-O   |
-    |
-    |
-    |
-=========
 
 Stage 7
-
-diff
 
     +---+
     |   |
