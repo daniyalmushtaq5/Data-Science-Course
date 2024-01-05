@@ -103,7 +103,7 @@ def hangman(word_list):
             if live == 0:
                 return f"Your live stage is\n{hangman_state(live)}\n.You Lose.Your have consumed all lives"
             else:
-                print(f"Your Guess Letter {guess} is not present in a Word\nYour remaining lives are {live} Please Try Again :)")
+                print(f"Your Guess Letter {guess} is not present in a Word\nYour remaining lives are {live}\n{hangman_state(live)}\nPlease Try Again :)")
 
 
 
